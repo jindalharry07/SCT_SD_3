@@ -32,7 +32,7 @@ The solved Sudoku grid will be displayed in the console once complete.
 ## 📸 Screenshots
 
 ### Console Program
-![Console Output](SCT_SD_3/Result/Console Result.png)
+![Console Output]([SCT_SD_3/Result/Console Result.png](https://github.com/jindalharry07/SCT_SD_3/blob/9658f6afdecee97f78a226bac00956d5477fec11/Result/Console%20Result.png))
 
 ```
 📂 Project Files
@@ -56,4 +56,5 @@ User-driven console applications
 Basic Git & GitHub usage
 
 👨‍💻 Author
+
 Harry Jindal – Software Development Intern at SkillCraft Technology
